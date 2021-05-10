@@ -1,4 +1,4 @@
-import multiprocessing
+from multiprocessing import *
 import time
 
 def counter(num):

@@ -1,4 +1,4 @@
-# #  ARRAY
+# #  LIST
 # food = ["pizza", "hamburguer", "milkshake"]
 
 # print(food[1])
